@@ -4,6 +4,17 @@ This code brings together crypto and deep learning in a despirate attemt to redd
 Predicts the actual Bitcoin and Ethereum prices in market.
 You can refer this code for predicting the Crypo-currency prices in market to the actual value.
 
+# Quick Run
+The easiest way to run the code is to download the .ipynb file and upload it to Colab. Colaboratory is a free Jupyter notebook environment provided by Google that requires no setup and runs entirely in the cloud. The hosted runtime already includes the following dependencies:
+
+Numpy
+Keras
+Tensorflow
+Matplotlib
+which are all we need to run this project.
+
+Alternative you can open the .ipynb file using Jupyter notebook. If you do this you will also have to set up a local kernel that includes Tensorflow.
+
 # References Taken
 https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
 
