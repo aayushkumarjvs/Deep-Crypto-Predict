@@ -30,5 +30,4 @@ https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-pric
 
 ![closing_price](https://user-images.githubusercontent.com/26484401/38711739-21bc1900-3ee5-11e8-9544-f04a680fa3ad.png)
 
-# Contact @
-aayushkumar_chandra@srmunv.edu.in
+
