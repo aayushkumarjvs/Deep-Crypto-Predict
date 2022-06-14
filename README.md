@@ -1,8 +1,5 @@
 # Deep-Crypto-Predict
-Using novel RNN-LSTM architecture for cryptocurrency market analysis.
-This code brings together crypto and deep learning in a despirate attemt to reddit poularity.
-Predicts the actual Bitcoin and Ethereum prices in market.
-You can refer this code for predicting the Crypo-currency prices in market to the actual value.
+Using novel RNN-LSTM architecture for cryptocurrency market analysis. This code brings together crypto and deep learning in a desperate attempt to Reddit popularity. Predicts the actual Bitcoin and Ethereum prices in the market. You can refer to this code for predicting the Crypto-currency prices in the market to the actual value.
 
 # Quick Run
 The easiest way to run the code is to download the .ipynb file and upload it to Colab. Colaboratory is a free Jupyter notebook environment provided by Google that requires no setup and runs entirely in the cloud. The hosted runtime already includes the following dependencies:
